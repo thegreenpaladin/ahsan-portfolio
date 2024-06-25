@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="bg-slate-900 grow px-40 py-20">
       <div className="">
-        <h1 className="text-3xl font-bold">Hi, I'm Ahsan!</h1>
+        <h1 className="text-3xl font-bold">Muhammad Ahsan</h1>
         <h3 className="text-lg mt-5">
           I'm a Software Engineer and Programmer.
         </h3>
