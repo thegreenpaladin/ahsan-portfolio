@@ -31,4 +31,4 @@ npm run dev
 To customize the template, you can edit the files in the `app` directory. The `app` directory contains the following files:
 
 - `layout.js`: Contains the main layout of the app and the global styles.
-- `page.js`: Contains the main page layout.
+- `page.js`: Contains the layout of the main page.
