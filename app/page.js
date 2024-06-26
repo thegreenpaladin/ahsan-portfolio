@@ -25,7 +25,7 @@ export default function Home() {
         </div>
         <div className="flex items-center mt-5">
           <a
-            href="https://github.com/thegreenpaladin/portfolio3"
+            href="https://github.com/thegreenpaladin/skills-acquired"
             className=" bg-slate-800 mb-2 p-3 border-2 rounded-sm font-medium border-white hover:scale-105 transition ease-out duration-300"
           >
             Languages and Frameworks
